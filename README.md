@@ -39,3 +39,8 @@ In the Grading Students challenge, students' grades must be rounded according to
 
 ```
 ### 🔍 Explanation
+
+- 73 → 75 (next multiple of 5 is 75, difference is 2 → round up)
+- 67 → 67 (next multiple of 5 is 70, difference is 3 → no rounding)
+- 38 → 40 (next multiple of 5 is 40, difference is 2 → round up)
+- 33 → 33 (below 38 → no rounding)
