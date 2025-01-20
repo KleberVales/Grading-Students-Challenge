@@ -20,3 +20,12 @@ In the Grading Students challenge, students' grades must be rounded according to
 ## ✅ Example
 
 ### Input:
+```java
+
+4
+73
+67
+38
+33
+
+```
