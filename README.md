@@ -14,3 +14,5 @@ In the Grading Students challenge, students' grades must be rounded according to
 - Each of the next n lines contains an integer representing a student's grade.
 
 ## 📤 Output Format
+
+- n lines, each containing the student's rounded grade.
