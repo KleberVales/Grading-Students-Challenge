@@ -30,3 +30,11 @@ In the Grading Students challenge, students' grades must be rounded according to
 
 ```
 ### Output:
+```java
+
+75
+67
+40
+33
+
+```
