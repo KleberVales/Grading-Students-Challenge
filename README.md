@@ -51,3 +51,5 @@ In the Grading Students challenge, students' grades must be rounded according to
 List<Integer> gradingStudents(List<Integer> grades)
 
 ```
+- Parameters: A list of integers representing students' grades.
+- Returns: A list of integers with the rounded grades.
