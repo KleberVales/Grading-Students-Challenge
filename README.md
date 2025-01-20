@@ -9,3 +9,5 @@ In the Grading Students challenge, students' grades must be rounded according to
 3. If the difference is 3 or more, the grade remains unchanged.
 
 ## 📥 Input Format
+
+- The first line contains an integer n, representing the number of students.
