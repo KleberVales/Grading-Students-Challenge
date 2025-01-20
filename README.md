@@ -18,3 +18,5 @@ In the Grading Students challenge, students' grades must be rounded according to
 - n lines, each containing the student's rounded grade.
 
 ## ✅ Example
+
+### Input:
