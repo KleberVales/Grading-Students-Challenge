@@ -39,6 +39,11 @@ In the Grading Students challenge, students' grades must be rounded according to
 
 ```
 ## 🔍 Explanation
+```java
+
+List<Integer> gradingStudents(List<Integer> grades)
+
+```
 
 - 73 → 75 (next multiple of 5 is 75, difference is 2 → round up)
 - 67 → 67 (next multiple of 5 is 70, difference is 3 → no rounding)
