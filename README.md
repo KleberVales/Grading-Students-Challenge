@@ -16,3 +16,5 @@ In the Grading Students challenge, students' grades must be rounded according to
 ## 📤 Output Format
 
 - n lines, each containing the student's rounded grade.
+
+## ✅ Example
