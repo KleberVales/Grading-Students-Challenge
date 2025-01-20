@@ -12,3 +12,5 @@ In the Grading Students challenge, students' grades must be rounded according to
 
 - The first line contains an integer n, representing the number of students.
 - Each of the next n lines contains an integer representing a student's grade.
+
+## 📤 Output Format
